@@ -8,7 +8,7 @@
         "Modularity Class": "0",
         "Tipo de programa": "Experto"
       },
-      "color": "rgb(16,148,255)",
+      "color": "rgb(0, 218, 0)",
       "size": 10.0
     },
     {
@@ -129,7 +129,7 @@
         "Modularity Class": "0",
         "Tipo de programa": "Experto"
       },
-      "color": "rgb(196,148,255)",
+      "color": "rgb(0, 218, 0)",
       "size": 12.0
     },
     {
@@ -184,7 +184,7 @@
         "Modularity Class": "0",
         "Tipo de programa": "Experto"
       },
-      "color": "rgb(196,148,255)",
+      "color": "rgb(0, 218, 0)",
       "size": 12.0
     },
     {
@@ -239,7 +239,7 @@
         "Modularity Class": "0",
         "Tipo de programa": "Experto"
       },
-      "color": "rgb(196,148,255)",
+      "color": "rgb(0, 218, 0)",
       "size": 10.0
     }
   ],
