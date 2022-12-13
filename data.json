@@ -107,7 +107,7 @@
         "Modularity Class": "1",
         "Tipo de programa": "Master"
       },
-      "color": "rgb(51, 217, 190)",
+      "color": "rgb(2, 132, 2)",
       "size": 40.0
     },
     {
@@ -217,8 +217,8 @@
         "Modularity Class": "0",
         "Tipo de programa": "Master"
       },
-      "color": "rgb(51, 217, 190)",
-      "size": 10.0
+      "color": "rgb(2, 132, 2)",
+      "size": 40.0
     },
     {
       "x": -634.1468505859375,
