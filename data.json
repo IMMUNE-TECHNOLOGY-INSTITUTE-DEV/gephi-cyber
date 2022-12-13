@@ -30,7 +30,7 @@
         "Modularity Class": "1",
         "Tipo de programa": "Diploma"
       },
-      "color": "rgb(16,148,255)",
+      "color": "rgb(160,102,195)",
       "size": 5.0
     },
     {
@@ -52,7 +52,7 @@
         "Modularity Class": "1",
         "Tipo de programa": "Diploma"
       },
-      "color": "rgb(16,148,255)",
+      "color": "rgb(160,102,195)",
       "size": 5.0
     },
     {
@@ -107,8 +107,8 @@
         "Modularity Class": "1",
         "Tipo de programa": "Master"
       },
-      "color": "rgb(160,102,195)",
-      "size": 10.0
+      "color": "rgb(51, 217, 190)",
+      "size": 25.0
     },
     {
       "x": 397.2892761230469,
@@ -162,7 +162,7 @@
         "Modularity Class": "0",
         "Tipo de programa": "Diploma"
       },
-      "color": "rgb(16,148,255)",
+      "color": "rgb(160,102,195)",
       "size": 15.0
     },
     {
@@ -217,8 +217,8 @@
         "Modularity Class": "0",
         "Tipo de programa": "Master"
       },
-      "color": "rgb(0, 218, 0)",
-      "size": 20.0
+      "color": "rgb(51, 217, 190)",
+      "size": 40.0
     },
     {
       "x": -634.1468505859375,
