@@ -21,7 +21,7 @@ html,body {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
-	font-size: 12px;
+	font-size: 25px;
 	font-family: sans-serif;
 	line-height:1.25em;
 }
@@ -37,7 +37,7 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: black !important;
+	background-color:#182333 !important;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
